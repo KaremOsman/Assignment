@@ -32,7 +32,7 @@ internal class Program
         //rectangle.Height = 6.0;
         //rectangle.DisplayShapeInfo(); 
         #endregion
-
+         
         #region Q_2
         ///1-We start by defining the IAuthenticationService interface with two methods: AuthenticateUser and AuthorizeUser.
         ///The BasicAuthenticationService class implements this interface and provides the specific implementation for these methods.
